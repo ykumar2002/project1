@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Staging Area
+=======
+Fixing Error
+>>>>>>> 8d2ab5b... inital message on staging
 =======
 Fixing Error
 >>>>>>> 8d2ab5b... inital message on staging
