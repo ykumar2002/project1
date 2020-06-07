@@ -1,2 +1,4 @@
 Fixing Error, Let's Hope No-One Else Does
+
+conflict master
 content to append, making changes
