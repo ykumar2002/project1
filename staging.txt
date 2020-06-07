@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Staging Area
+=======
+Fixing Error
+>>>>>>> 8d2ab5b... inital message on staging
