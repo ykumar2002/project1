@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 3395edf4080c57381f396302181bc673c8b1aed7
 Staging Area
@@ -25,3 +26,6 @@ Fixing Error
 >>>>>>> 8d2ab5b... inital message on staging
 =======
 >>>>>>> 3395edf4080c57381f396302181bc673c8b1aed7
+=======
+Fixing Error
+>>>>>>> 8d2ab5b... inital message on staging
