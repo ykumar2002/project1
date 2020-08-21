@@ -1,3 +1,3 @@
 # project1
 
-This is a project for Seneca College.Test.
+This is a project for Seneca College.
